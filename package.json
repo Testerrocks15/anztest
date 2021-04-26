@@ -1,0 +1,16 @@
+{
+  "name": "anztest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "opencypress": "cypress open",
+    "cypressrun": "cypress run"
+  },
+  "author": "Kavitha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.7.0"
+  }
+}
